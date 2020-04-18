@@ -14,5 +14,4 @@ void loop()
   delay(500);  //delay to display
   lcd.noCursor();
   delay(500);
-  
 }
