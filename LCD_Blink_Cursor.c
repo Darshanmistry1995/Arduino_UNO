@@ -1,6 +1,7 @@
 #include <LiquidCrystal_I2C.h> //init header file
 
 LiquidCrystal_I2C lcd(0x27, 20, 4); //port connection initialization
+
 void setup() 
 {
   lcd.init();
