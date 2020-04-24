@@ -10,7 +10,9 @@ void setup()
   lcd.backlight();
   lcd.print("Darshan Mistry.!"); //print the character
 }
+
 //Loop..
+
 void loop()
 {
   lcd.cursor();
