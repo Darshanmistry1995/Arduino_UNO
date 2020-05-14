@@ -11,7 +11,7 @@ void setup()
   lcd.print("Darshan Mistry.!"); //print the character..
   
 }
-//Loop..
+//Loop.
 void loop()
 {
   lcd.cursor();
