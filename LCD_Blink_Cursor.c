@@ -8,7 +8,7 @@ void setup()
   
   lcd.init();
   lcd.backlight();
-  lcd.print("Darshan Mistry.!"); //print the character..
+  lcd.print("Darshan Mistry..!"); //print the character..
   
 }
 //Loop.
