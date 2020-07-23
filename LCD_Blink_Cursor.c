@@ -1,4 +1,4 @@
-//Darshan Mistry...
+//Darshan Mistry.
 
 #include <LiquidCrystal_I2C.h> //init header file for I2C Interfacing.
 
